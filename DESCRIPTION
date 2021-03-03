@@ -1,14 +1,17 @@
 Package: foofactors
-Title: What the Package Does (One Line, Title Case)
+Title: Toy Tool Make Factors Less Aggravating
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Oscar",
+           family = "Aceves",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "acevesoscare@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: MIT + file LICENSE
+Description: Factors have driven people to extreme measures, like ordering
+    custom conference ribbons and laptop stickers to express how HELLNO we
+    feel about stringsAsFactors. And yet, sometimes you need them. Can they
+    be made less maddening? Let's find out.
+License: use_mit_license("Oscar Aceves")
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
